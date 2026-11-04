@@ -1,5 +1,0 @@
-puissance_pool_pct,succes_vulnerable_pct,succes_protege_pct,pertes_vulnerable,pertes_protege,part_vulnerable,part_protege,rappel_detection_pct,faux_positifs_pct
-10,100,98,245,244,0,0,2,0
-20,100,0,494,350,0,0,100,0
-30,100,0,712,370,0,0,100,0
-40,100,0,974,390,0,0,100,2

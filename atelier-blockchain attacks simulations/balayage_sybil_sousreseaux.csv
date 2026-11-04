@@ -1,0 +1,6 @@
+sous_reseaux_sybil,succes_vulnerable_pct,succes_protege_pct,pertes_vulnerable,pertes_protege,part_vulnerable,part_protege,rappel_detection_pct,faux_positifs_pct
+1,80,0,96,0,0,0,100,0
+2,80,0,96,0,0,0,100,0
+4,80,0,96,0,0,0,70,0
+8,80,62,96,74.4,0,0,12,0
+16,80,78,96,93.6,0,0,2,0

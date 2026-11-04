@@ -1,0 +1,6 @@
+gamma,succes_vulnerable_pct,succes_protege_pct,pertes_vulnerable,pertes_protege,part_vulnerable,part_protege,rappel_detection_pct,faux_positifs_pct
+0,44,0,56.575,0,0.367692,0.0990184,100,4
+0.25,62,0,93.375,0,0.391546,0.0990184,100,4
+0.5,94,0,151.381,0,0.415765,0.0990184,100,4
+0.75,100,0,208.625,0,0.439521,0.0990184,100,4
+1,100,0,272.25,0,0.466589,0.0990184,100,4

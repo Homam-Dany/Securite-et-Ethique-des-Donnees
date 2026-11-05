@@ -63,6 +63,4 @@ Les fenêtres s'ouvrent en direct (vous pouvez zoomer et explorer les valeurs). 
 
 - `Atelier2_Solution.cpp` : Code source C++ principal de la blockchain et des simulations.
 - `generer_graphiques.py` : Script Python pour tracer les graphiques d'analyse.
-- `balayage_*.csv` : Données expérimentales générées par la simulation.
-- `graphiques/` : Dossier contenant les figures exportées au format PNG.
 - `Atelier 2 - Blockchain attacks simulation.pdf` : Énoncé du sujet de l'atelier.

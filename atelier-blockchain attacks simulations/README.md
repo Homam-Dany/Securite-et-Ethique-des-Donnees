@@ -1,7 +1,5 @@
 # Atelier 2 : Simulation d'Attaques Blockchain, Détection et Mitigation
 
-Projet réalisé dans le cadre du module **Sécurité et Éthique des Données** (Master IDIA).
-
 Ce projet implémente une plateforme expérimentale pour simuler quatre attaques classiques sur une blockchain (Proof of Work et réseau P2P), analyser leur impact et tester des mécanismes de détection et de défense (mitigation).
 
 ---

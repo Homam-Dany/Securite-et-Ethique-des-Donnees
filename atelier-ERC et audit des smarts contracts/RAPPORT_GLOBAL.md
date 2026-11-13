@@ -10,7 +10,7 @@
 * **Formation :** Master Ingénierie des Données et Intelligence Artificielle(IDIA)
 * **Module :** Sécurité et éthique des données
 * **Auteur :** Homam DANY
-* **Encadrante:** Pr.Ikram BENABDEOUAHAB
+* **Encadrante:** Pr.Ikram BENABDELOUAHAB
 * **Année Universitaire :** 2026 – 2027
 * **Dépôt GitHub du Projet :** [https://github.com/Homam-Dany/Securite-et-Ethique-des-Donnees](https://github.com/Homam-Dany/Securite-et-Ethique-des-Donnees)
 * **Démonstration Vidéo - Volet 1 (Système Fonctionnel) :** [Lien Google Drive - Démonstration Volet 1](https://drive.google.com/drive/u/0/folders/16F9BGrxT5dbZguz7ScOJqO4Rv3v46irY)

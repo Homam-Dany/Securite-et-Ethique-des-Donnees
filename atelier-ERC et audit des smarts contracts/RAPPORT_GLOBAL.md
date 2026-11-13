@@ -8,10 +8,9 @@
 
 * **Établissement :** Université Abdelmalek Essaâdi (UAE) — Faculté des Sciences et Techniques de Tanger (FSTT)
 * **Département :** Génie Informatique
-* **Formation :** Master Ingénierie des Données et Intelligence Artificielle(IDIA)
-* **Module :** Sécurité et éthique des données
-* **Réalisé par :** Homam Dany
-* **Encadrée par :** Pr.Ikram Benabdelouahab
+* **Formation :** Master Sécurité et Éthique des Données (MSED)
+* **Module :** Technologies Blockchain, Smart Contracts & Audit de Sécurité
+* **Auteur :** Dany Homam
 * **Année Universitaire :** 2026 – 2027
 * **Dépôt GitHub :** [https://github.com/Homam-Dany/Securite-et-Ethique-des-Donnees](https://github.com/Homam-Dany/Securite-et-Ethique-des-Donnees)
 * **Démonstration Vidéo - Volet 1 (Système Fonctionnel) :** [Google Drive - Démonstration Volet 1](https://drive.google.com/drive/u/0/folders/16F9BGrxT5dbZguz7ScOJqO4Rv3v46irY)
@@ -267,28 +266,33 @@ npm install
 
 ### Étape 2 : Compilation des Smart Contracts
 ```bash
+cd hardhat
 npx hardhat compile
 ```
 
 ### Étape 3 : Exécution de la Suite de Tests
 ```bash
+cd hardhat
 npx hardhat test
 ```
 
 ### Étape 4 : Démarrage du Nœud Local Ethereum
 Dans un premier terminal :
 ```bash
+cd hardhat
 npx hardhat node
 ```
 
 ### Étape 5 : Déploiement des Contrats
 Dans un second terminal :
 ```bash
+cd hardhat
 npx hardhat run scripts/deploy.ts --network localhost
 ```
 *Le script déploie les deux contrats et exporte automatiquement les adresses et ABIs vers le frontend.*
 
 ### Étape 6 : Lancement de la DApp
+Dans un troisième terminal :
 ```bash
 cd frontend
 npm install

@@ -1,0 +1,11 @@
+studentName,studentId,diplomaTitle,issueDate,recipientAddress,grade
+Homam Dany,2023-INF-001,Master Cybersécurité et Sécurité des Systèmes d'Information,2026-06-15,0x70997970C51812dc3A010C7d01b50e0d17dc79C8,Mention Très Bien
+Layla Dany,2023-INF-002,Licence Sciences de Données et Intelligence Artificielle,2026-06-15,0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC,Mention Bien
+Houssam El Hajioui,2023-INF-003,Diplôme d'Ingénieur en Génie Logiciel,2026-06-15,0x90F79bf6EB2c4f870365E785982E1f101E93b906,Mention Très Bien
+Bilal Houari,2023-INF-004,Master Réseaux et Systèmes Distribués,2026-06-15,0x15d34aaf54761d84474775838C61C3125e8395b2,Mention Bien
+Ikram Benabdelouahab,2023-INF-005,Licence Informatique et Mathématiques Appliquées,2026-06-15,0x9965507D1A55BCc66958380425dD7be473389928,Mention Très Bien
+Yassine Amrani,2023-INF-006,Master Cloud Computing et DevOps,2026-06-15,0x976EA74026E726554dB657fA54763abd0C3a0aa9,Mention Assez Bien
+Salma Benchekroun,2023-INF-007,Diplôme d'Ingénieur en Systèmes Embarqués,2026-06-15,0x14Dc79964dA2C08dAa4968307b6bDeb63bd0f291,Mention Bien
+Amine Kettani,2023-INF-008,Master Blockchain et Technologies Décentralisées,2026-06-15,0x23618e81E3f5cdF7f54C3d65f7FBc0aBf5B21E8f,Mention Très Bien
+Nora El Fassi,2023-INF-009,Licence Génie Informatique,2026-06-15,0xa0Ee7A142d267C1f36714E4a8F75612F20a79720,Mention Bien
+Rachid Touzani,2023-INF-010,Master Sécurité et Éthique des Données,2026-06-15,0xBcd4042DE499D14e55001CcbB24a551F3b954096,Mention Assez Bien

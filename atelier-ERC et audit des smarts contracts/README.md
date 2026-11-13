@@ -16,7 +16,7 @@ Lien de la vidéo de démonstration de l'application (Devoir 2) :
 
 - **`Devoir2_ERC_et_Audit.pdf`** : Énoncé officiel du Devoir 2.
 - **`CertificateNFT.sol`** : Smart contract Solidity conforme au standard ERC-721 Soulbound d'OpenZeppelin v5.
-- **`Audit_Securite.md`** : Rapport d'audit de sécurité complet (méthodologie Secureum / Consensys Diligence, analyse de réentrance, contrôle d'accès, et comparatif ERC-721 vs ERC-1155).
+- **`RAPPORT_GLOBAL.md`** : Rapport d'ingénierie global consolidé (architecture du Devoir 1 et Devoir 2, standardisation ERC-721 Soulbound, métadonnées 100% on-chain, suite de 26 tests, audit de sécurité formel et interface DApp).
 - **`frontend/`** : Application web adaptée avec support des Token IDs, métadonnées `tokenURI`, détection automatique des rôles (`MINTER_ROLE`) et génération de QR Code de vérification.
 - **`etudiants.xlsx`** & **`etudiants.csv`** : Fichiers d'exemple structurés avec adresses normalisées EIP-55.
 
@@ -45,13 +45,14 @@ Le contrat génère automatiquement un JSON conforme au standard EIP-721 encodé
 
 ---
 
-## Rapport d'Audit de Sécurité
+## Rapport Global & Audit de Sécurité
 
-Le document [`Audit_Securite.md`](./Audit_Securite.md) détaille :
-1. **Le périmètre audité** et les bibliothèques OpenZeppelin utilisées.
-2. **La checklist de sécurité** : réentrance (SWC-107), contrôle d'accès (SWC-105/106), débordement d'entiers, déni de service (DoS gas limit) et validation des entrées.
-3. **Le comparatif ERC-721 vs ERC-1155** : analyse de pertinence pour la certification académique.
-4. **Les résultats des tests automatisés** : 26 tests validés avec succès.
+Le document complet [`RAPPORT_GLOBAL.md`](./RAPPORT_GLOBAL.md) détaille :
+1. **L'architecture complète du projet** (du registre fonctionnel initial au standard ERC-721 Soulbound).
+2. **Le rapport d'audit de sécurité** : réentrance (SWC-107), contrôle d'accès granulaire RBAC, protection DoS et validation des entrées.
+3. **Le comparatif architectural** : Registre brut vs ERC-721 SBT vs ERC-1155.
+4. **La suite de tests automatisés** : 26 tests validés (Solidity forge-std & TypeScript Viem).
+5. **L'interface Web3 institutionnelle** : émission unitaire, import groupé Excel/CSV et vérification publique avec QR Code.
 
 ---
 

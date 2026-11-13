@@ -78,5 +78,5 @@ npm run dev
 
 ## Auteur
 **Homam Dany** — 2026/2027  
-Master en Informatique / Sécurité et Éthique des Données  
+Master en ingénierie des données et intelligence artificielle / Sécurité et Éthique des Données  
 Faculté des Sciences et Techniques de Tanger — Université Abdelmalek Essaâdi

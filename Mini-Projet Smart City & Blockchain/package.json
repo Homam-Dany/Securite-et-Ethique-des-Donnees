@@ -1,0 +1,31 @@
+{
+  "name": "smart-city-blockchain",
+  "version": "1.0.0",
+  "description": "Plateforme decentralisee de gestion des services urbains - Smart City & Blockchain",
+  "main": "hardhat.config.cjs",
+  "scripts": {
+    "compile": "node ./node_modules/hardhat/internal/cli/cli.js compile",
+    "test": "node ./node_modules/hardhat/internal/cli/cli.js test",
+    "node": "node ./node_modules/hardhat/internal/cli/cli.js node",
+    "deploy": "node ./node_modules/hardhat/internal/cli/cli.js run scripts/deploy.cjs --network localhost",
+    "generate-excel": "node scripts/generate-excel.cjs"
+  },
+  "keywords": [
+    "blockchain",
+    "smart-city",
+    "ethereum",
+    "solidity",
+    "hardhat",
+    "dapp"
+  ],
+  "author": "Smart City Team",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.18"
+  },
+  "dependencies": {
+    "ethers": "^6.13.5",
+    "xlsx": "^0.18.5"
+  }
+}

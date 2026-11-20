@@ -22,8 +22,8 @@
 
 ---
 
-### **FORMATION : SÉCURITÉ ET ÉTHIQUE DES DONNÉES**
-#### **Module : Smart City, Blockchain & Sécurité Décentralisée**
+### **FORMATION : Smart City, Blockchain & Sécurité Décentralisée**
+#### **Module : SÉCURITÉ ET ÉTHIQUE DES DONNÉES**
 
 ---
 
@@ -40,12 +40,12 @@
   <tr>
     <td width="50%" align="left" style="border: none;">
       <b>Réalisé par :</b><br/>
-      🎓 <strong>Homam Dany</strong><br/>
-      <i>Étudiant en Sécurité et Éthique des Données</i>
+       <strong>Homam Dany</strong><br/>
+      <i>Étudiant en Ingénieurie des Données et Intelligence Artificielle</i>
     </td>
     <td width="50%" align="right" style="border: none;">
       <b>Sous la direction de :</b><br/>
-      👩‍🏫 <strong>Mme. Ikram Benabdelouahab</strong><br/>
+       <strong>Mme. Ikram Benabdelouahab</strong><br/>
       <i>Professeure & Encadrante du Module</i>
     </td>
   </tr>

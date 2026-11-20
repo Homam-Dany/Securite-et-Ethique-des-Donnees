@@ -1,8 +1,0 @@
-*.exe
-*.o
-*.obj
-*.out
-.vscode/
-.idea/
-
-*.csv
